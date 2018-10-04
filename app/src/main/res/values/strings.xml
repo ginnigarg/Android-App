@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="Click_Button">You Clicked On the button</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="click_here">Click Here</string>
+    <string name="reset">RESET</string>
 </resources>
